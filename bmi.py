@@ -1,3 +1,4 @@
+print("Git Test")
 print("Welcome to BMI Calculator.")
 
 height = float(input("Enter your height in m: "))
